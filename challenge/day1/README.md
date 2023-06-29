@@ -1,5 +1,9 @@
 # Day 1 - LinkedList 
 
+## Related Leetcode problem
+1. <a href="">Reverse Linked List - EASY</a>
+2. <a href="">Merge two Linked List - EASY</a>
+
 ## Singly Linked list
 Linked list - linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
 
