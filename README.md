@@ -2,16 +2,16 @@
 
 My goal is to rank within the **top 10%** :fire: in the LeetCode contest.
 
-### My current Leetcode stats
-![](https://badges.peiyuan.ch/leetcode/sorry_but_im_monster/ranking)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorry_but_im_monster&theme=dark)](https://leetcode.com/sorry_but_im_monster/)
-
 
 ### My daily habits
 1. 1h - Neetcode video course.
 2. Solve 2-3 problems related to the topic.
 3. Write a blog about the problem-solving method to reinforce topic.
+
+### My current Leetcode stats
+![](https://badges.peiyuan.ch/leetcode/sorry_but_im_monster/ranking)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorry_but_im_monster&theme=dark)](https://leetcode.com/sorry_but_im_monster/)
    
 
 ### Links
