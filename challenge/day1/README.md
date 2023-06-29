@@ -2,7 +2,7 @@
 
 ## Related Leetcode problem
 1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day1/ReverseLinkedList.java">Reverse Linked List - EASY</a>
-2. <a href="">Merge two Linked List - EASY</a>
+2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day1/MergeTwoLinkedList.java">Merge two Linked List - EASY</a>
 
 ## Singly Linked list
 Linked list - linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
