@@ -1,8 +1,8 @@
 # Day 2 - Doubly Linked List
 
 ## Related Leetcode problem
-1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day1/ReverseLinkedList.java">Design Linked List - Medium</a>
-2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day1/MergeTwoLinkedList.java">Design Browser History - Medium</a>
+1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day2/DesignLinkedList.md">Design Linked List - Medium</a>
+2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day2/DesignBrowserHistory.md">Design Browser History - Medium</a>
 
 Having learned about singly linked lists, let's next learn about its variation - the Doubly Linked List. As the name implies, it's called doubly because each node now has two pointers. We have a ```prev``` pointer which points to the previous node, in addition to the ```next``` pointer. If the ```prev``` pointer points to null, it is an indication that we are at the start of the linked list.
 
