@@ -21,4 +21,4 @@ My goal is to rank within the **top 10%** :fire: in the LeetCode contest.
 
 ### Tracker
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day1">Day 1 - 2023.06.29</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day2">Day 1 - 2023.06.30</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day2">Day 2 - 2023.06.30</a>
