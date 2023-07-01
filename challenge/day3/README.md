@@ -3,7 +3,7 @@
 ## Queues 
 
 ### Related Leetcode problem
-1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day2/DesignLinkedList.md">Number of Students Unable to eat lunch - EASY</a>
+1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day3/NumberOfStudentsUnableToEat.md">Number of Students Unable to eat lunch - EASY</a>
 2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day2/DesignBrowserHistory.md">Implement Stack using queues - EASY</a>
 
 Queues are similar to stack, except they follow what called a ```FIFO``` approach(First in First out). A real world example would be a line at the bank. The first person to come in the line is the first person to be serve.
