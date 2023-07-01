@@ -1,4 +1,4 @@
-# Day 3 - Queues & Recursion
+# Day 3 - Queues
 
 ## Queues 
 
