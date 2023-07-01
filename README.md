@@ -1,4 +1,4 @@
-# Daily algorithm & data structure challange
+# Daily algorithm & data structure challenge
 
 My goal is to rank within the **top 5%** :fire: in the LeetCode contest.<br>
 I will improve my problem-solving skills <ins>every day</ins> until I reach my goal.:bangbang:
