@@ -1,9 +1,9 @@
 # Stacks
 
 ### Related Leetcode problem
-1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day3/NumberOfStudentsUnableToEat.md">Baseball Game - EASY</a>
-2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day3/ImplementStackUsingQueue.md">Valid Parentheses - EASY</a>
-3. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day3/ImplementStackUsingQueue.md">Min Stack - Medium</a>
+1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day5/BaseballGame.java">Baseball Game - EASY</a>
+2. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day5/ValidParentheses.java">Valid Parentheses - EASY</a>
+3. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day5/MinStack.java">Min Stack - Medium</a>
 
 A stack is a data structure that contains a collection of elements where you can add and delete elements from just one end (called the top of the stack).
 <br>
