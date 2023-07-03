@@ -20,6 +20,50 @@ public void push(int n){
 }
 ```
 
+<img width="634" alt="Screen Shot 2023-07-03 at 19 33 30" src="https://github.com/Alisherka7/daily_challange_algorithm/assets/38793933/ddcd299d-d64c-4cbc-bd47-4caded40e6e8">
 
 
+## Pop
+
+Pop operation removes the last element from top of the stack, which in dynamic array termis would be retrieving the last element. This is also an efficient ```O(1)```
+
+```java
+public int pop(){
+    return stack.remove(stack.size() - 1);
+}
+```
+<img width="608" alt="Screen Shot 2023-07-03 at 19 35 06" src="https://github.com/Alisherka7/daily_challange_algorithm/assets/38793933/d44584db-4f14-4e12-8362-462522f941e0">
+
+> In most languages, before popping, it is a good measure to check if the stack is empty to avoid errors.
+
+## Peek 
+Peek is the simples of three. It just returns, without removing, the top most elements.
+
+```java
+public int peek(){
+    return stack.get(stack.size() - 1);
+}
+```
 <hr>
+
+
+## Big-O time complexity
+
+<table>
+<tr>
+<th>Operation</th>
+<th>Big-O time complexity</th>
+</tr>
+<tr>
+<td>Push</td>
+<td>O(1)</td>
+</tr>
+<tr>
+<td>Pop</td>
+<td>O(1)</td>
+</tr>
+<tr>
+<td>Peek/Top</td>
+<td>O(1)</td>
+</tr>
+</table>
