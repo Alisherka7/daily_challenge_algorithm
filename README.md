@@ -26,3 +26,4 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day3">Day 3 - 2023.07.01</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day4">Day 4 - 2023.07.02</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day5">Day 5 - 2023.07.03</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day6">Day 6 - 2023.07.04</a>
