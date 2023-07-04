@@ -21,9 +21,10 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 
 
 ### Tracker
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day1">Day 1 - 2023.06.29</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day2">Day 2 - 2023.06.30</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day3">Day 3 - 2023.07.01</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day4">Day 4 - 2023.07.02</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day5">Day 5 - 2023.07.03</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day6">Day 6 - 2023.07.04</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day1">Day 1 - 2023.06.29 | LinkedList</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day2">Day 2 - 2023.06.30 | Doubly LinkedList</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day3">Day 3 - 2023.07.01 | Queues</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day4">Day 4 - 2023.07.02 | Recursion</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day5">Day 5 - 2023.07.03 | Stacks</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day6">Day 6 - 2023.07.04 | Merge Sort</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day7">Day 7 - 2023.07.05 | Quick Sort</a>
