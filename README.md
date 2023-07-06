@@ -12,6 +12,7 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 ### My current Leetcode stats
 ![](https://badges.peiyuan.ch/leetcode/sorry_but_im_monster/ranking)
 
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorry_but_im_monster&theme=dark)](https://leetcode.com/sorry_but_im_monster/)
    
 
