@@ -1,7 +1,7 @@
 # Day 9 - Binary Search (Search Array)
 
 ### Related Leetcode problem
-1. <a href="https://github.com/Alisherka7/daily_challange_algorithm/blob/main/challenge/day5/BaseballGame.java">BinarySearch - EASY</a>
+1. <a href="https://github.com/Alisherka7/daily_challenge_algorithm/blob/main/challenge/day9/BinarySearch.java">BinarySearch - EASY</a>
 2. <a href="https://github.com/Alisherka7/daily_challenge_algorithm/blob/main/challenge/day9/Search2DMatrix.md">Search a 2D Matrix - MEDIUM</a>
 
 Binary search is an efficient way of searching for elements within a sorted array.
