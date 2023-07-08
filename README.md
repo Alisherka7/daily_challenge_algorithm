@@ -31,3 +31,4 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day7">Day 7 - 2023.07.05 | Quick Sort</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day8">Day 8 - 2023.07.06 | Bucket Sort</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day9">Day 9 - 2023.07.07 | Binary Search</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day10">Day 10 - 2023.07.08 | Binary Tree</a>
