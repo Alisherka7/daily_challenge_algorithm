@@ -74,6 +74,8 @@ public void postorder(TreeNode root){
 ```
 
 The order in which these nodes will be visited is: ```[2,3,5,7,6,4]```
+
+
 <img width="525" alt="Screen Shot 2023-07-10 at 22 39 21" src="https://github.com/Alisherka7/daily_challenge_algorithm/assets/38793933/431b0883-0ef1-462f-ac7b-c227add562f8">
 
 <hr>
