@@ -37,4 +37,4 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day13">Day 13 - 2023.07.11 | BFS (Breadth-First Search</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day14">Day 14 - 2023.07.12 | BST Sets and Maps</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day15">Day 15 - 2023.07.13 | Tree Maze</a>
-
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day16">Day 16 - 2023.07.14 | Heap/Priority Queue</a>
