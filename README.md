@@ -44,4 +44,5 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day19">Day 19 - 2023.07.17 | Matrix DFS</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day20">Day 20 - 2023.07.18 | Matrix BFS</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day21">Day 21 - 2023.07.24 | Adjacency List</a>
-* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day22">Day 22 - 2023.07.24 | Dynamic Programming 1</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day22">Day 22 - 2023.07.25 | Dynamic Programming 1</a>
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day23">Day 23 - 2023.07.26 | Dynamic Programming 2</a>
