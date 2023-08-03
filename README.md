@@ -47,3 +47,5 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day22">Day 22 - 2023.07.25 | Dynamic Programming 1</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day23">Day 23 - 2023.07.26 | Dynamic Programming 2</a>
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day24">Day 24 - 2023.07.28 | Bit Operations</a>
+## Advanced Algorithms
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day25">Day 25 - 2023.08.03 | Kadane's Algorithm</a>
