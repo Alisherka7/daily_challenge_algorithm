@@ -21,6 +21,8 @@ I will improve my problem-solving skills <ins>every day</ins> until I reach my g
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sorry_but_im_monster/) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisherka7/) 
 
+## Leetcode
+* <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/leetcode/1768. Merge Strings Alternately">1768. Merge Strings Alternately</a>
 
 ### Tracker
 * <a href="https://github.com/Alisherka7/daily_challange_algorithm/tree/main/challenge/day1">Day 1 - 2023.06.29 | LinkedList</a>
