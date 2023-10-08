@@ -1,1 +1,3 @@
-# 1768. Merge Strings Alternately 
+# Solve methods:
+
+1. 
